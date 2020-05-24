@@ -1,0 +1,7 @@
+!jackline.install
+jackline/
+jackline.substvars
+tmp-opam-*/
+changelog
+.debhelper/
+files
